@@ -8,7 +8,7 @@ window.addEventListener("DOMContentLoaded", function(){
   const totalPriceSpan = document.getElementById("totalPrice");
 
   const pricePerUnit = {
-      type1: 5500, 
+      type1: 5000, 
       type2: 8000,
       type3: 13000
   };
